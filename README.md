@@ -6,3 +6,7 @@
 mac版本 - mac芯片 https://github.com/dushan555/games-for-girls/releases/download/test/app.app.zip
 
 Windows版本 - intel64 https://github.com/dushan555/games-for-girls/releases/download/test/winAPP.zip
+
+预览
+
+<img align="center" src="preview.png" alt="preview" height="auto"/>
